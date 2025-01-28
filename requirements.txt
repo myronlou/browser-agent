@@ -1,0 +1,5 @@
+gradio>=3.50
+playwright>=1.42
+langchain-ollama>=0.1.0
+python-dotenv>=1.0
+pydantic
